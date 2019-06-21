@@ -2,6 +2,7 @@
 
 The main idea of these examples is showing how the material design web components works. [Here is the link to documentation]([https://material.io/develop/web/](https://material.io/develop/web/)).
 
+This is the [link]([https://www.youtube.com/playlist?list=PLSQ4mck-bvilqfGFaYdbJ0z2KlD5U09mc](https://www.youtube.com/playlist?list=PLSQ4mck-bvilqfGFaYdbJ0z2KlD5U09mc)) to the tutorial that I followed
 
 ## Requeriments
 
