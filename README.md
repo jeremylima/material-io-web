@@ -17,3 +17,7 @@ $ npm install
 ```sh
 $ npm run dev
 ```
+**Install the material button**
+```sh
+$ npm install @material/button
+```
