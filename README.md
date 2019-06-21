@@ -17,3 +17,11 @@ $ npm install
 ```sh
 $ npm run dev
 ```
+**Install the floating button**
+```sh
+$ npm install @material/fab
+```
+**Additionally** If you want to see the animation of the button when using the class **mdc-fab--exited**, you have to install jquery
+```sh
+$ npm install jquery
+```
