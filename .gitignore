@@ -1,0 +1,11 @@
+.gradle/
+.idea/
+.build/
+.webpack/
+build/
+out/
+node_modules/
+*.ipr
+*.iws
+*.iml
+yarn-error.log
