@@ -17,3 +17,11 @@ $ npm install
 ```sh
 $ npm run dev
 ```
+**Install the global package of material design components**
+```sh
+$ npm install material-components-web
+```
+**Additionally** If you want to see the animation of the button when using the class **iconToggle**, you have to install jquery
+```sh
+$ npm install jquery
+```
