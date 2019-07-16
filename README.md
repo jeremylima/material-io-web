@@ -17,7 +17,7 @@ $ npm install
 ```sh
 $ npm run dev
 ```
-**Install the global package of material design components and the default unless dependencies**
+**Install the global package of material design components and add to devDependencies**
 ```sh
 $ npm install material-components-web -D
 ```
