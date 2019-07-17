@@ -17,3 +17,11 @@ $ npm install
 ```sh
 $ npm run dev
 ```
+**Install jquery**
+```sh
+$ npm install jquery
+```
+**Install the material chips and it dependencies**
+```sh
+$ npm install @material/chips -D
+```
